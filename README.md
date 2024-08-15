@@ -1,7 +1,4 @@
-#### // hanyuu
-
-
-
+### // hanyuu
 
 hello ! i am an 18 year old from kuršėnai , lithuania
 
@@ -9,7 +6,7 @@ i like linux , cybersecurity , old media and hardware and computers in general =
 
 
 
-current projects:
+## current projects:
 
 linyuu - custom operating system
 
