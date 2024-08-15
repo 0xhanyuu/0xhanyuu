@@ -6,7 +6,7 @@ i like linux , cybersecurity , old media and hardware and computers in general =
 
 
 
-### // current projects:
+### // current projects
 
 linyuu - custom operating system
 
