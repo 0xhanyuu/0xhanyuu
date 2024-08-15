@@ -1,5 +1,4 @@
 #### // hanyuu
-![visitors](https://visitor-badge.glitch.me/badge?page_id=0xhanyuu.visitor-badge&left_color=grey&right_color=%23ffd2cf)
 
 
 
