@@ -2,7 +2,7 @@
 
 hello ! i am an 18 year old from kuršėnai , lithuania
 
-i like linux , cybersecurity , old media and hardware and computers in general =^_^=
+i like linux , cybersecurity , old media / software , and hardware
 
 
 
