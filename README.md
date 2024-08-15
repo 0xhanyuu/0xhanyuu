@@ -15,4 +15,4 @@ linyuu - custom operating system
 
 hykernel - kernel utility for arch-based linux distributions
 
-hotmilk - rudimentary text editor close to being useless
+[hotmilk](https://github.com/0xhanyuu/hotmilk) - rudimentary text editor close to being useless
