@@ -1,4 +1,4 @@
-#### // hanyuu ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=%ffd2cf)
+#### // hanyuu ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=#ffd2cf)
 
 
 hello ! i am an 18 year old from kuršėnai , lithuania
