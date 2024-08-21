@@ -17,4 +17,5 @@ linyuu - custom operating system
 ### // skills
 
 operating systems - gentoo linux , arch linux
+
 programming languages - bash , c , c++
