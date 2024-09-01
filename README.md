@@ -1,8 +1,8 @@
-### hanyuu
+### - hanyuu -
 
 Hanyuu is an 18 year old developer from Kuršėnai, Lithuania.
 
-### current projects
+### - current projects -
 
 linyuu - custom operating system
 
@@ -10,7 +10,7 @@ linyuu - custom operating system
 
 [hotmilk](https://github.com/0xhanyuu/hotmilk) - rudimentary text editor
 
-### skills
+### - skills -
 
 Operating Systems - Gentoo Linux, Arch Linux
 
