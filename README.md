@@ -1,21 +1,19 @@
-### // hanyuu
+### hanyuu
 
-hello ! i am an 18 year old from kuršėnai , lithuania
+Hello!
 
-i like linux , cybersecurity , old media / software , and hardware
+Hanyuu is an 18 year old developer from Kuršėnai, Lithuania.
 
-
-
-### // current projects
+### current projects
 
 linyuu - custom operating system
 
 [hykernel](https://github.com/0xhanyuu/hykernel) - kernel utility for arch-based linux distributions
 
-[hotmilk](https://github.com/0xhanyuu/hotmilk) - rudimentary text editor close to being useless
+[hotmilk](https://github.com/0xhanyuu/hotmilk) - rudimentary text editor
 
-### // skills
+### skills
 
-operating systems - gentoo linux , arch linux
+Operating Systems - Gentoo Linux, Arch Linux
 
-programming languages - bash , c , c++
+Programming Languages - Bash, C, C++
