@@ -16,4 +16,4 @@ strawberrymilk - a slightly less broken text editor
 
 Operating Systems - Gentoo Linux, Arch Linux
 
-Programming Languages - Bash, C, C++
+Programming Languages - Bash, C, C++, Python
