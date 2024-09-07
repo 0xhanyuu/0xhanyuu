@@ -10,6 +10,8 @@ linyuu - custom operating system
 
 [hotmilk](https://github.com/0xhanyuu/hotmilk) - rudimentary text editor
 
+strawberrymilk - a slightly less broken text editor
+
 ### - skills -
 
 Operating Systems - Gentoo Linux, Arch Linux
