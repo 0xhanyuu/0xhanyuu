@@ -10,7 +10,7 @@ linyuu - custom operating system
 
 [hotmilk](https://github.com/0xhanyuu/hotmilk) - rudimentary text editor
 
-strawberrymilk - a slightly less broken text editor
+[strawberrymilk](https://github.com/0xhanyuu/strawberrymilk) - a slightly less broken text editor
 
 ### - skills -
 
