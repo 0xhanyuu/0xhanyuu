@@ -12,8 +12,6 @@ Hanyuu is an 18 year old developer from Kuršėnai, Lithuania.
 
 ### - skills -
 
-DevOps:
-
 Operating Systems - Gentoo Linux, Arch Linux
 
 Programming Languages - Bash, C, C++, Python
