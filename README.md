@@ -1,6 +1,6 @@
 ### - hanyuu -
 
-Hanyuu is an 18 year old developer from Kuršėnai, Lithuania.
+Hanyuu is a 19 year old developer from Kuršėnai, Lithuania.
 
 ### - current projects -
 
