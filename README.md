@@ -14,6 +14,8 @@ Hanyuu is a 19 year old developer from Kuršėnai, Lithuania.
 
 **DevOps:**
 
+Text Editors - Nano, Vi, Vim
+
 Version Control - Git
 
 Build Automation - CMake, Make
