@@ -24,7 +24,7 @@ Build Automation - CMake, Make
 
 Scripting / Automation - Bash
 
-Operating Systems & System Administration - Gentoo Linux, Arch Linux
+Operating Systems & System Administration - Windows, Gentoo Linux, Arch Linux
 
 **Programming Languages:**
 
