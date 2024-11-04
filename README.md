@@ -10,8 +10,6 @@ Hanyuu is a 19 year old developer from Kuršėnai, Lithuania.
 
 [**hotmilk**](https://github.com/0xhanyuu/hotmilk) - rudimentary text editor
 
-[**strawberrymilk**](https://github.com/0xhanyuu/strawberrymilk) - a slightly less broken text editor
-
 ### - skills -
 
 **DevOps:**
