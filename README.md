@@ -18,7 +18,7 @@ Text Editors - Nano, Vi/Vim/Vis
 
 Version Control - Git
 
-Build Automation - CMake, Make
+Build Automation - Make
 
 Scripting / Automation - Bash
 
