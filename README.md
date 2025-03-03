@@ -4,11 +4,12 @@ Hanyuu is a 19 year old developer from Kuršėnai, Lithuania.
 
 ### - current projects -
 
+[**rfs**](https://github.com/0xhanyuu/basic_filesystem) - a rudimentary pseudo-filesystem for the use of learning the low-level functionalities of a filesystem
+
+[**gentoo-install-utiliies**](https://github.com/0xhanyuu/gentoo-install-utilities) - a set of utilities designed to improve the Gentoo Linux installation experience
+
 [**hykernel**](https://github.com/0xhanyuu/hykernel) - kernel utility for arch-based linux distributions
 
-[**chip8**](https://github.com/0xhanyuu/chip8-interpreter) - chip-8 interpreter written in C
-
-[**hotmilk**](https://github.com/0xhanyuu/hotmilk) - rudimentary text editor
 
 ### - skills -
 
@@ -26,4 +27,4 @@ Operating Systems & System Administration - Gentoo Linux, Arch Linux
 
 **Programming Languages:**
 
-Python, C++, C, Bash
+Python, C, C++, Bash
