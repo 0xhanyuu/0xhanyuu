@@ -1,14 +1,16 @@
-### - hanyuu -
+### \*- hanyuu -*
 
 Hanyuu is a 19 year old developer from Kuršėnai, Lithuania.
 
-### - current projects -
+#
 
-**Stable:**
+### <ins>\*- current projects -*
+
+### Stable:
 
 [**morse-code-interpreter**](https://github.com/0xhanyuu/morse-code-interpreter/) - A modestly featureful morse-code to ASCII interpreter.
 
-**Developing:**
+### Developing:
 
 [**rfs**](https://github.com/0xhanyuu/basic_filesystem) - A rudimentary pseudo-filesystem for the use of learning the low-level functionalities of a filesystem.
 
@@ -16,10 +18,11 @@ Hanyuu is a 19 year old developer from Kuršėnai, Lithuania.
 
 [**hykernel**](https://github.com/0xhanyuu/hykernel) - Kernel symlink utility for Arch-based Linux distributions.
 
+#
 
-### - skills -
+### \*- skills -*
 
-**DevOps:**
+### DevOps:
 
 Text Editors - Nano, Vi/Vim/Vis
 
@@ -31,6 +34,6 @@ Scripting / Automation - Bash
 
 Operating Systems & System Administration - Gentoo Linux, Arch Linux
 
-**Programming Languages:**
+### Programming Languages:
 
 Python, C, C++, Bash
