@@ -4,6 +4,12 @@ Hanyuu is a 19 year old developer from Kuršėnai, Lithuania.
 
 ### - current projects -
 
+**Stable:**
+
+[**morse-code-interpreter**](https://github.com/0xhanyuu/morse-code-interpreter/) - A modestly featureful morse-code to ASCII interpreter.
+
+**Developing:**
+
 [**rfs**](https://github.com/0xhanyuu/basic_filesystem) - A rudimentary pseudo-filesystem for the use of learning the low-level functionalities of a filesystem.
 
 [**gentoo-install-utiliies**](https://github.com/0xhanyuu/gentoo-install-utilities) - A set of utilities designed to improve the Gentoo Linux installation experience.
