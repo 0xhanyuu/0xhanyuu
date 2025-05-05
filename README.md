@@ -1,16 +1,16 @@
-### <ins>\*- hanyuu -*
+### <ins>\- hanyuu -
 
 Hanyuu is a 19 year old developer from Kuršėnai, Lithuania.
 
 #
 
-### <ins>\*- current projects -*
+### <ins>\- current projects -
 
 ### Stable:
 
 [**morse-code-interpreter**](https://github.com/0xhanyuu/morse-code-interpreter/) - A modestly featureful morse code to ASCII interpreter.
 
-[**cybersec_projects**](https://github.com/0xhanyuu/cybersec_projects) - A repository to hold my functional cyber-security related projects / tools for learning.
+[**cybersec_projects**](https://github.com/0xhanyuu/cybersec_projects) - A repository to hold functional cyber-security related projects / tools for learning.
 
 ### Developing:
 
@@ -22,7 +22,7 @@ Hanyuu is a 19 year old developer from Kuršėnai, Lithuania.
 
 #
 
-### <ins>\*- skills -*
+### <ins>\- skills -
 
 ### DevOps:
 
