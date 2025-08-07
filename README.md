@@ -14,6 +14,8 @@ Hanyuu is a 19 year old developer from Kuršėnai, Lithuania.
 
 ### Developing:
 
+[**hardened_stdio.h**](https://github.com/0xhanyuu/hardened_stdio.h) - A project designed to implement the ISO/IEC 9899 **<stdio.h>** header with more security. POSIX-compliant.
+
 [**hanayunOS**](https://github.com/0xhanyuu/hanayunOS) - A custom operating system written from scratch using the Limine bootloader / protocol.
 
 [**gentoo-install-utilities**](https://github.com/0xhanyuu/gentoo-install-utilities) - A set of utilities designed to improve the Gentoo Linux installation experience.
